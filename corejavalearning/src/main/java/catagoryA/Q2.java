@@ -1,4 +1,4 @@
-package ctatgorya;
+package catagoryA;
 
 import java.util.Scanner;
 
