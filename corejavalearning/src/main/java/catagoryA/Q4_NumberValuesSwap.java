@@ -2,7 +2,7 @@ package catagoryA;
 
 import java.util.Scanner;
 
-public class Q4 {
+public class Q4_NumberValuesSwap {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter first number : ");

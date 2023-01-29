@@ -2,7 +2,7 @@ package ifStatements;
 
 import java.util.Scanner;
 
-public class Q1 {
+public class Q1_ConvertToPositive {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("enter your number: ");

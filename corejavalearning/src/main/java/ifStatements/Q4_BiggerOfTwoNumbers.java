@@ -1,9 +1,8 @@
 package ifStatements;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class Q4 {
+public class Q4_BiggerOfTwoNumbers {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

@@ -2,7 +2,7 @@ package catagoryA;
 
 import java.util.Scanner;
 
-public class Q5 {
+public class Q5_NetweightAndAverageWeight {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter first person weight : ");

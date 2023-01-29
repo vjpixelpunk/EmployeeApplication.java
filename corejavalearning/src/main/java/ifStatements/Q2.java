@@ -3,6 +3,8 @@ package ifStatements;
 import java.util.Scanner;
 
 public class Q2 {
+    //Write a program to accept the bill amount and age of the customer;
+    // if the customer’s age is >50 years then give a discount of 5% on the bill.
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the bill amount: ");

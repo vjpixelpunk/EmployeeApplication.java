@@ -2,7 +2,7 @@ package ifStatements;
 
 import java.util.Scanner;
 
-public class Q3 {
+public class Q3_EvenOrOdd {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("enter a number: ");

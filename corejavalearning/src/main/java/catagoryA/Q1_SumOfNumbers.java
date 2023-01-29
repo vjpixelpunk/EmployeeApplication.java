@@ -2,7 +2,7 @@ package catagoryA;
 
 import java.util.Scanner;
 
-public class Q1 {
+public class Q1_SumOfNumbers {
 
 
     public static void main(String[] args) {
